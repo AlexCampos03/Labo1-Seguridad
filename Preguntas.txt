@@ -1,0 +1,13 @@
+¿Cuál es el punto más débil de PGP?
+Es la parte del passphrase
+
+¿Cuándo es conveniente utilizar solamente cifrado simétrico?
+Cuando otras personas conocen el algoritmo utilizado, pues es
+la seguridad que brinda la clave. Esto hace que el punto más crítico sea la posibilidad de adivinar
+la clave de forma relativamente sencilla y barata, es por esto que nos importa definir una longitud
+de clave adecuada.
+
+En qué consiste el ciclo de vida del desarrollo de software seguro (etapa por etapa)?
+Proceso que estandariza las mejores prácticas de seguridad en una
+variedad de productos y/o aplicaciones. Captura las actividades de seguridad estándar de la
+industria y las empaqueta para que puedan implementarse fácilmente.
